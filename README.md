@@ -1,4 +1,4 @@
-# Solidity-Web3-dApp Template
+# Full stack Todo dApp
 
 ---
 ## Documentations:
